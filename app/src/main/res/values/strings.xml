@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Fox H Academy</string>
+    <string name="menu_refresh">تحديث</string>
+    <string name="menu_home">الرئيسية</string>
+    <string name="menu_share">مشاركة التطبيق</string>
+    <string name="menu_browser">فتح في المتصفح</string>
+    <string name="offline_title">لا يوجد اتصال بالإنترنت</string>
+    <string name="offline_msg">تأكد من اتصالك ثم حاول مرة أخرى</string>
+    <string name="retry">إعادة المحاولة</string>
+    <string name="share_text">تعلّم البرمجة بالعربي مع Fox H Academy:\nhttps://foxh961.blogspot.com/</string>
+    <string name="share_title">مشاركة عبر</string>
+</resources>
